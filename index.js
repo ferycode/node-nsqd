@@ -1,0 +1,1 @@
+const nsq = require('nsqjs');
